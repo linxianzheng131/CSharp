@@ -1,0 +1,4 @@
+D:\Users\Carl\Desktop\C#\C#入门实践\C#入门实践\obj\Debug\net8.0\必备知识点 控制台相关.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\C#入门实践\C#入门实践\obj\Debug\net8.0\必备知识点 控制台相关.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\C#入门实践\C#入门实践\obj\Debug\net8.0\必备知识点 控制台相关.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\C#入门实践\C#入门实践\obj\Debug\net8.0\必备知识点 控制台相关.csproj.CoreCompileInputs.cache

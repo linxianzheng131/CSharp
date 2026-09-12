@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#入门实践 完整/1.0.0": {
+        "runtime": {
+          "C#入门实践 完整.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#入门实践 完整/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

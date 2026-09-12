@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\C#入门实践\lesson 2 _随机数\bin\Debug\net8.0\lesson 2 _随机数.exe
+D:\Users\Carl\Desktop\C#\C#入门实践\lesson 2 _随机数\bin\Debug\net8.0\lesson 2 _随机数.deps.json
+D:\Users\Carl\Desktop\C#\C#入门实践\lesson 2 _随机数\bin\Debug\net8.0\lesson 2 _随机数.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\C#入门实践\lesson 2 _随机数\bin\Debug\net8.0\lesson 2 _随机数.dll
+D:\Users\Carl\Desktop\C#\C#入门实践\lesson 2 _随机数\bin\Debug\net8.0\lesson 2 _随机数.pdb
+D:\Users\Carl\Desktop\C#\C#入门实践\lesson 2 _随机数\obj\Debug\net8.0\lesson 2 _随机数.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\C#入门实践\lesson 2 _随机数\obj\Debug\net8.0\lesson 2 _随机数.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\C#入门实践\lesson 2 _随机数\obj\Debug\net8.0\lesson 2 _随机数.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\C#入门实践\lesson 2 _随机数\obj\Debug\net8.0\lesson 2 _随机数.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\C#入门实践\lesson 2 _随机数\obj\Debug\net8.0\lesson 2 _随机数.dll
+D:\Users\Carl\Desktop\C#\C#入门实践\lesson 2 _随机数\obj\Debug\net8.0\refint\lesson 2 _随机数.dll
+D:\Users\Carl\Desktop\C#\C#入门实践\lesson 2 _随机数\obj\Debug\net8.0\lesson 2 _随机数.pdb
+D:\Users\Carl\Desktop\C#\C#入门实践\lesson 2 _随机数\obj\Debug\net8.0\lesson 2 _随机数.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\C#入门实践\lesson 2 _随机数\obj\Debug\net8.0\ref\lesson 2 _随机数.dll
